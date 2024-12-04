@@ -1,0 +1,116 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2 a{
+    margin-left: 500px;
+}
+
+table{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding:10px 10px;
+    width: 500px;
+    margin-left: 460px;
+    margin-top: 100px;
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
+.n1{
+    background-color: rgb(32, 135, 133);
+    padding: 10px;
+    text-align: center;
+    
+}
+.n2{
+    background-color: rgb(212, 12, 12);
+    padding: 10px;
+    text-align: center;
+}
+.n3{
+    background-color: rgb(30, 78, 233);
+    row-gap: 2px;
+    column-gap: 2px;
+    padding: 10px;
+    text-align: center;
+}
+.n4{
+    background-color: rgb(32, 135, 133);
+    padding: 10px;
+    text-align: center;
+}
+.n5{
+    background-color: rgb(212, 12, 12);
+    padding: 10px;
+    text-align: center;
+}
+.n6{
+    background-color: rgb(30, 78, 233);
+    padding: 10px;
+    text-align: center;
+}
+.n7{
+    background-color: #1ee962;
+    padding: 10px;
+    text-align: center;
+}
+.n8{
+    background-color: rgb(30, 78, 233);
+    padding: 10px;
+    text-align: center;
+}
+.n9{
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+}
+.n10{
+    background-color: #1ee962;
+    padding: 10px;
+    text-align: center;
+}
+.n11{
+    background-color: rgb(30, 78, 233);
+    padding: 10px;
+    text-align: center;
+}
+.n12{
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+}
+
+.n13{
+    background-color: rgb(30, 78, 233);
+    padding: 10px;
+    text-align: center;
+}
+.n14{
+    background-color: rgb(32, 135, 133);
+    padding: 10px;
+    text-align: center;
+}
+.n15{
+    background-color: rgb(30, 78, 233);
+    padding: 10px;
+    text-align: center;
+}
+.n16{
+    background-color: rgb(30, 78, 233);
+    padding: 10px;
+    text-align: center;
+}
+.n17{
+    background-color: rgb(32, 135, 133);
+    padding: 10px;
+    text-align: center;
+}
+.n18{
+    background-color: rgb(30, 78, 233);
+    padding: 10px;
+    text-align: center;
+    
+}
+    
